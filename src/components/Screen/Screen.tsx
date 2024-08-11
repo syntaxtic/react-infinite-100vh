@@ -16,6 +16,8 @@ const Screen = ({
       id={id}
       style={{
         margin: 0,
+        padding: "1rem",
+        textAlign: 'center',
         backgroundColor: backgroundColor,
         height: "100vh",
         minHeight: "100vh",
